@@ -79,7 +79,7 @@ Some of my current work is confidential, so I keep this profile focused on my ba
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subcoldzhang&theme=github-compact&hide_border=true" alt="Activity graph" />
 </div>
 
 ## Connect
