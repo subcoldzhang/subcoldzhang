@@ -59,6 +59,13 @@ Some of my current work is confidential, so I keep this profile focused on my ba
   <img src="https://skillicons.dev/icons?i=python,nodejs,ts,redis,postgres,git,github,linux,vscode&perline=6" alt="Tech stack icons" />
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subcoldzhang&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subcoldzhang&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</div>
+
 ## Featured Projects
 
 ### Research Interests
