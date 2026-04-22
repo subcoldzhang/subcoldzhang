@@ -59,22 +59,7 @@ Some of my current work is confidential, so I keep this profile focused on my ba
   <img src="https://skillicons.dev/icons?i=python,nodejs,ts,redis,postgres,git,github,linux,vscode&perline=6" alt="Tech stack icons" />
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
-
 ## Featured Projects
-
-### Selected Work
-
-Some of the projects I work on are not public, so this section can be used for open-source work, research demos, technical write-ups, or any public projects you want to highlight later.
-
-- Repo: [your-public-project](https://github.com/YOUR_USERNAME/your-public-project)
-- Stack: `Python` `TypeScript` `SQL`
-- Highlight: describe one meaningful technical contribution
 
 ### Research Interests
 
