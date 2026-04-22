@@ -98,7 +98,7 @@ Some of my current work is confidential, so I keep this profile focused on my ba
   <a href="https://www.linkedin.com/in/yuhao-saifhjw">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://subcoldzhang.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio badge" />
   </a>
 </p>
