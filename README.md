@@ -92,10 +92,10 @@ Some of my current work is confidential, so I keep this profile focused on my ba
 ## Connect
 
 <p>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:zhangyuhao7@lixiang.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/yuhao-saifhjw">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK">
