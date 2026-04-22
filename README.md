@@ -19,11 +19,11 @@ How to use:
   </p>
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+    <a href="https://github.com/subcoldzhang">GitHub</a>
     ·
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/yuhao-saifhjw">LinkedIn</a>
     ·
-    <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+    <a href="mailto:zhangyuhao7@lixiang.com">Email</a>
   </p>
 
   <p>
